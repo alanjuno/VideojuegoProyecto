@@ -335,7 +335,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: HOW TO PLAY
+  m_text: COMO JUGAR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dfe1ba23c638bec49a583843476bb5c9, type: 2}
   m_sharedMaterial: {fileID: 8120199949304618070, guid: dfe1ba23c638bec49a583843476bb5c9, type: 2}
@@ -470,30 +470,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '- USE "WASD" TO MOVE
-
-    - USE "R" KEY TO RELOAD WEAPON - OR CLICK LEFT
-    MOUSE BUTTON AGAIN WHILE YOU''RE OUT OF AMMO
-
-    - USE "RIGHT MOUSE BUTTON"
-    TO ROLL AND DODGE BULLETS
-
-    - USE "ESC" KEY TO OPEN PAUSE MENU.  FROM HERE
-    YOU CAN ADJUST THE SOUND SETTINGS AND QUIT TO THE MAIN MENU
-
-    - HOLD "TAB"
-    KEY TO LOOK DUNGEON MAP. ALSO YOU CAN TELEPORT A PREVIOUSLY VISITED ROOM BY CLICKING
-    LEFT MOUSE BUTTON
-
-    - USE "E" KEY TO OPEN THE CHESTS AND TURN THE TABLES TO
-    COVER
-
-    - USE THE MOUSE WHEEL OR NUMBERS TO SWITCH BETWEEN WEAPONS
-
-    -
-    USE "-" KEY TO ASSIGN THE CURRENT WEAPON AS YOUR FIRST WEAPON
-
-    - GOOD LUCK!'
+  m_text: "- USA \"WASD\" PARA MOVERTE\n- USA LA TECLA \"R\" PARA RECARGAR EL ARMA,
+    O VUELVE A PULSAR EL BOTON IZQUIERDO DEL RAT\xD3N CUANDO TE QUEDES SIN MUNICI\xD3N\n-
+    UTILIZA EL BOTON DERECHO DEL RATON PARA RODAR Y ESQUIVAR LAS BALAS.\n- UTILIZA
+    LA TECLA \"ESC\" PARA ABRIR EL MENU DE PAUSA. DESDE AQU\xCD PUEDES AJUSTAR LA
+    CONFIGURACION DE SONIDO Y SALIR AL MENU PRINCIPAL\n- MANTEN PULSADA LA TECLA
+    \"TAB\" PARA VER EL MAPA DE LA MAZMORRA. TAMBIEN PUEDES TELETRANSPORTARTE A UNA
+    HABITACION PREVIAMENTE VISITADA PULSANDO EL BOT\xD3N IZQUIERDO DEL RATON\n- USA
+    LA TECLA \"E\" PARA ABRIR LOS COFRES Y PONER LAS MESAS A CUBIERTO\n- USA LA RUEDA
+    DEL RATON O LOS NUMEROS PARA CAMBIAR DE ARMA\n- USA LA TECLA \"-\" PARA ASIGNAR
+    EL ARMA ACTUAL COMO TU PRIMERA ARMA\n- \xA1BUENA SUERTE!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dfe1ba23c638bec49a583843476bb5c9, type: 2}
   m_sharedMaterial: {fileID: 8120199949304618070, guid: dfe1ba23c638bec49a583843476bb5c9, type: 2}
@@ -628,7 +614,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 7982f2173aaf35042970eeb32efb1c8f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ed5a972908f53e74092f5446e87efe96, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -647,8 +633,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1849762087}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_LocalPosition: {x: -0.0367, y: -0.0734, z: 0}
+  m_LocalScale: {x: 1.8717017, y: 1.8659319, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
