@@ -1,10 +1,9 @@
-# 2D-Roguelike-Game
-2D rogue like dungeon game
+# Las flipantes aventuras de Carlos y su pistola 
+2D rogue como juego de mazmorras
 
+Hola este es mi juego 2D rogue like. En este juego hay 6 niveles, cada nivel de uso ** generación de procedimiento ** técnica para ser creado y tienen varios enemigos. Antes de empezar el juego se puede elegir uno de los 3 personajes jugador puede jugar. Cada personaje tiene diferentes armas.
 
-Hello this is my 2D rogue like game. In this game there are 6 levels, each level use **procedural generation** technique to be created and have various enemies. Before starting game you can choose one of the 3 characters player can play. Each character have different weapons.
-
-When you enter a room the doors of the room will be closed until you clear the room from enemies. When you clear all the enemies you can continue clearing all the rooms in the dungeon also you can find chests that carry ammunation, new guns and health when you enter a room or clear a room. After clearing all rooms you can face with the boss or bosses and when you defeat them the current level will be completed and you can start the new level.
+Cuando entras en una habitación, las puertas se cierran hasta que limpias la habitación de enemigos. Cuando eliminas a todos los enemigos puedes continuar eliminando todas las habitaciones de la mazmorra. También puedes encontrar cofres que contienen munición, nuevas armas y salud cuando entras en una habitación o eliminas una habitación. Después de limpiar todas las habitaciones puedes enfrentarte al jefe o jefes y cuando los derrotes el nivel actual se completará y podrás empezar el nuevo nivel.
 
 # Screenshots
 Menu
