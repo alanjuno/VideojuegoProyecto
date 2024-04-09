@@ -33,5 +33,5 @@ Boss Minimap
 
 ![Boss Minimap](https://github.com/denizkorkmaz52/2D-Roguelike-Game/blob/main/Screen%20Shoots/Boss%20Minimap.PNG)
 
-# Credit
-I made this game with the course of Rob Ager in this link https://www.udemy.com/course/unity-2d-dungeon-gunner-roguelike-development-course/
+# Crédito
+Hice este juego con el curso de Rob Ager en este enlace https://www.udemy.com/course/unity-2d-dungeon-gunner-roguelike-development-course/
